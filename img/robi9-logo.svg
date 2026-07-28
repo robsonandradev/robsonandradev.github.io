@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 104" role="img" aria-labelledby="title desc">
+  <title id="title">robi9.dev</title>
+  <desc id="desc">Robi, identidade pessoal de Robson, integrada à I9 Cloud</desc>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-weight="800">
+    <g transform="translate(2 8)">
+      <text x="0" y="72" font-size="76" fill="#EEF1EB">r</text>
+      <text x="38" y="72" font-size="76" fill="#A8FF60">i9</text>
+    </g>
+    <g transform="translate(164 16)" font-size="62">
+      <text x="0" y="58" fill="#EEF1EB">rob</text>
+      <text x="111" y="58" fill="#A8FF60">i9</text>
+      <text x="185" y="58" fill="#7F8980">.dev</text>
+    </g>
+  </g>
+</svg>

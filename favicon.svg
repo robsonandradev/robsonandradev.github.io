@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="robi9.dev">
+  <rect width="64" height="64" rx="13" fill="#080B09"/>
+  <path d="M8 17h19v8H17v25H8V17Z" fill="#EEF1EB"/>
+  <rect x="25" y="11" width="7" height="7" rx="1.5" fill="#A8FF60"/>
+  <path d="M25 21h7v29h-7V21Zm11 0h19v20c0 9-6 14-16 14h-3v-7h4c4 0 7-2 8-6h-5c-7 0-11-4-11-10 0-7 5-11 12-11h12v7H44c-3 0-5 1-5 4s2 4 5 4h4v-8H36v-7Z" fill="#A8FF60"/>
+</svg>
